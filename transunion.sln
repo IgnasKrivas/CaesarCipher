@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transunion", "transunion\transunion.csproj", "{2345B837-7BED-4A6B-B0E6-33F901325715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transunion.test", "transunion.test\transunion.test.csproj", "{46BDBA17-1DF6-4000-819C-CD85DE58235D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2345B837-7BED-4A6B-B0E6-33F901325715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2345B837-7BED-4A6B-B0E6-33F901325715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2345B837-7BED-4A6B-B0E6-33F901325715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2345B837-7BED-4A6B-B0E6-33F901325715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46BDBA17-1DF6-4000-819C-CD85DE58235D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46BDBA17-1DF6-4000-819C-CD85DE58235D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46BDBA17-1DF6-4000-819C-CD85DE58235D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46BDBA17-1DF6-4000-819C-CD85DE58235D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {963FA1C7-2449-4052-B235-23F5ADED208E}
+	EndGlobalSection
+EndGlobal

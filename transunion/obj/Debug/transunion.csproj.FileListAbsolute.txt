@@ -1,0 +1,7 @@
+D:\Stuff\transunion\transunion\bin\Debug\transunion.exe.config
+D:\Stuff\transunion\transunion\bin\Debug\transunion.exe
+D:\Stuff\transunion\transunion\bin\Debug\transunion.pdb
+D:\Stuff\transunion\transunion\obj\Debug\transunion.csproj.AssemblyReference.cache
+D:\Stuff\transunion\transunion\obj\Debug\transunion.csproj.CoreCompileInputs.cache
+D:\Stuff\transunion\transunion\obj\Debug\transunion.exe
+D:\Stuff\transunion\transunion\obj\Debug\transunion.pdb
